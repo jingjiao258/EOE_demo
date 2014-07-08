@@ -63,7 +63,7 @@ public class CaptureActivity extends Activity implements Callback {
 
         CameraManager.init(getApplication());
         initControl();
-
+           
         hasSurface = false;
         inactivityTimer = new InactivityTimer(this);
     }
