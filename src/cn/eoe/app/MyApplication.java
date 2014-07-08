@@ -10,7 +10,7 @@ public class MyApplication extends Application {
 	public void onCreate() {
 		// TODO Auto-generated method stub
 		super.onCreate();
-		
+		   
 //		if (!CommonUtil.sdCardIsAvailable()) { // sdcard not available
 //			cacheDir = new File(Environment.getDataDirectory().getAbsolutePath() + "/data/" + getPackageName()
 //					+ "/eoecn/cache/imgs");
